@@ -1,0 +1,22 @@
+{
+  "name": "automation-scripts-for-final-quiz",
+  "version": "1.0.0",
+  "description": "automation scripts for final quiz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khatia1999/automation-scripts-for-final-quiz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khatia1999/automation-scripts-for-final-quiz/issues"
+  },
+  "homepage": "https://github.com/khatia1999/automation-scripts-for-final-quiz#readme",
+  "devDependencies": {
+    "cypress": "^13.8.0"
+  }
+}
